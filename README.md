@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **mxm.angga@gmail.com**
 
+- 📄 Know about my experiences [https://angga-dev.github.io/portofolio/](https://angga-dev.github.io/portofolio/)
+
 - ⚡ Fun fact **Sometimes troublesome bugs can be solved with a simple syntax '-')**
 
 <h3 align="left">Languages and Tools:</h3>
